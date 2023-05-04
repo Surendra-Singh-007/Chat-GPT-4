@@ -1,11 +1,11 @@
-.gpt3__brand {
+.gpt4__brand {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
 
-.gpt3__brand div {
+.gpt4__brand div {
     flex: 1;
     display: flex;
     max-width: 150px;

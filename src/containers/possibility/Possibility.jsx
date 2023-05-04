@@ -4,23 +4,20 @@ import "./possibility.css";
 
 const Possibility = () => {
   return (
-    <div className="gpt3__possibility section__padding" id="possibility">
-      <div className="gpt3__possibility-image">
-        <img src={possibilityImage} alt="possibility" />
-      </div>
-      <div className="gpt3__possibility-content">
+    <div className="gpt4__possibility section__padding" id="possibility">
+      <div className="gpt4__possibility-content">
         <h4>Request Early Access to Get Started</h4>
         <h1 className="gradient__text">
-          The possibilities are beyond your imagination
+          Who will control the future of this amazing technology?
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+        What’s more, he says, in the longer term, the way the AI models can make researchers like himself more productive has the potential to drive technological progress.That potential of large language models is already turning up in research in the physical sciences.
         </p>
         <h4>Request Early Access to Get Started</h4>
       </div>
+      <div className="gpt4__possibility-image">
+      <img src={possibilityImage} alt="possibility" />
+    </div>
     </div>
   );
 };

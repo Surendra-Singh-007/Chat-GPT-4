@@ -3,7 +3,8 @@
     height:100%;
     display: flex;
     flex-direction: column;
-    background: var(--color-footer);
+    /* background: var(--color-footer); */
+    background-image: linear-gradient(to right, #0f0c29, #302b63, #24243e);
 }
 
 .gpt3__blog-container_article-image {
